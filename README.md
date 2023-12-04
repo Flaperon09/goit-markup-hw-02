@@ -1,1 +1,1 @@
-https://flaperon09.github.io/goit-markup-hw-01/
+https://flaperon09.github.io/goit-markup-hw-02/
