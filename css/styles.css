@@ -45,6 +45,11 @@ h3 {
     list-style: none;
 }
 
+/* Стиль для сброса подчёркивания ссылок */
+.none-decor {
+    text-decoration: none;
+}
+
 /* Стилизация логотипа */
 .logo {
     color: var(--color-logo);
@@ -138,6 +143,7 @@ h3 {
 
 .h3-advantages {
     font-weight: 700;
+    font-size: 14px;
     line-height: 1.2;
     text-transform: uppercase;
 }
@@ -160,6 +166,12 @@ h3 {
     font-weight: 500;
     line-height: normal;
     letter-spacing: 0.48px;
+}
+
+.label {
+    font-size: 16px;
+    letter-spacing: 0.48px;
+    line-height: normal;
 }
 
 /* Стиль футера */
